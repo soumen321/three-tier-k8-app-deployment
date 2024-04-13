@@ -23,3 +23,6 @@
 **Monitoring:** Integrate monitoring and logging solutions for real-time insights.
 
 
+
+
+![three-tier](https://github.com/soumen321/three-tier-k8-app-deployment/assets/2536037/58306a78-211a-40d8-b456-5b685845d555)
